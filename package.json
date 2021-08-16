@@ -1,0 +1,25 @@
+{
+  "name": "fun-web-projects",
+  "version": "1.0.0",
+  "description": "Fun Web Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiendat1295/fun-web-projects.git"
+  },
+  "author": "tiendat1295",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiendat1295/fun-web-projects/issues"
+  },
+  "homepage": "https://github.com/tiendat1295/fun-web-projects#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "2.3.2"
+  }
+}
